@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "com.fffenesenes.lastlevel.client",
+        "paths": ["/app/client"]
+      },
+      {
+        "appID": "com.fffenesenes.lastlevel.pro",
+        "paths": ["/app/pro"]
+      }
+    ]
+  }
+}
