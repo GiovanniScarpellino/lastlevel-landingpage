@@ -1,26 +1,14 @@
 [
-  [
-    {
-      "relation": [
-        "delegate_permission/common.handle_all_urls"
-      ],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "com.fffenesenes.lastlevel.client",
-        "sha256_cert_fingerprints": [
-          "7F:A5:4D:48:04:EC:23:E5:CC:26:B8:5A:9C:EB:EF:05:6C:6E:75:15:FB:2D:31:DE:8B:68:B7:FD:99:11:22:15"
-        ]
-      }
-    }
-  ],
   {
     "relation": [
       "delegate_permission/common.handle_all_urls"
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.fffenesenes.lastlevel.pro",
-      "sha256_cert_fingerprints": []
+      "package_name": "com.fffenesenes.lastlevel.client",
+      "sha256_cert_fingerprints": [
+        "7F:A5:4D:48:04:EC:23:E5:CC:26:B8:5A:9C:EB:EF:05:6C:6E:75:15:FB:2D:31:DE:8B:68:B7:FD:99:11:22:15"
+      ]
     }
   },
   {
